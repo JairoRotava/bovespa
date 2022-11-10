@@ -1,0 +1,2 @@
+1. Baixar dados em intervalo de tempo da ordem de N minutos nos ultimos M dias
+2. Fazer banco de dados de várias acoes por bastante tempo, para ser utilizado em treinamento e testes. Para isso usar uma arquivo de configuracao YAML, para definir quais acoes devem ter, periodo, intervalo. Funcao deve ver o banco de dados existente e fazer a atualização do banco automaticamente.
